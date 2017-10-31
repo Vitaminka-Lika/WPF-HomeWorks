@@ -1,0 +1,13 @@
+﻿<Window x:Class="TryClickTheButton.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TryClickTheButton"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Canvas>
+        <Button Name="runningButton" Content="Click me!!!" HorizontalAlignment="Left" Margin="211,122,0,0" VerticalAlignment="Top" Width="75" MouseEnter="RunningButton_MouseEnter" MouseLeave="RunningButton_MouseLeave" Click="RunningButton_Click"/>
+
+    </Canvas>
+</Window>

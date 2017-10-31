@@ -1,0 +1,15 @@
+C:\Users\Alika\source\repos\TryClickTheButton\TryClickTheButton\bin\Debug\TryClickTheButton.exe.config
+C:\Users\Alika\source\repos\TryClickTheButton\TryClickTheButton\bin\Debug\TryClickTheButton.exe
+C:\Users\Alika\source\repos\TryClickTheButton\TryClickTheButton\bin\Debug\TryClickTheButton.pdb
+C:\Users\Alika\source\repos\TryClickTheButton\TryClickTheButton\obj\Debug\TryClickTheButton.csprojResolveAssemblyReference.cache
+C:\Users\Alika\source\repos\TryClickTheButton\TryClickTheButton\obj\Debug\MainWindow.g.cs
+C:\Users\Alika\source\repos\TryClickTheButton\TryClickTheButton\obj\Debug\App.g.cs
+C:\Users\Alika\source\repos\TryClickTheButton\TryClickTheButton\obj\Debug\TryClickTheButton_MarkupCompile.cache
+C:\Users\Alika\source\repos\TryClickTheButton\TryClickTheButton\obj\Debug\TryClickTheButton_MarkupCompile.lref
+C:\Users\Alika\source\repos\TryClickTheButton\TryClickTheButton\obj\Debug\MainWindow.baml
+C:\Users\Alika\source\repos\TryClickTheButton\TryClickTheButton\obj\Debug\TryClickTheButton.g.resources
+C:\Users\Alika\source\repos\TryClickTheButton\TryClickTheButton\obj\Debug\TryClickTheButton.Properties.Resources.resources
+C:\Users\Alika\source\repos\TryClickTheButton\TryClickTheButton\obj\Debug\TryClickTheButton.csproj.GenerateResource.Cache
+C:\Users\Alika\source\repos\TryClickTheButton\TryClickTheButton\obj\Debug\TryClickTheButton.csproj.CoreCompileInputs.cache
+C:\Users\Alika\source\repos\TryClickTheButton\TryClickTheButton\obj\Debug\TryClickTheButton.exe
+C:\Users\Alika\source\repos\TryClickTheButton\TryClickTheButton\obj\Debug\TryClickTheButton.pdb
