@@ -1,0 +1,30 @@
+﻿<Window x:Class="Conventer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Conventer"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Name="convertButton" Content="Convert" HorizontalAlignment="Left" Margin="161,270,0,0" VerticalAlignment="Top" Width="75" Click="ConvertButton_Click"/>
+        <Separator HorizontalAlignment="Left" Height="100" Margin="118,109,0,0" VerticalAlignment="Top" Width="319" RenderTransformOrigin="0.5,0.5">
+            <Separator.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="89.378"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Separator.RenderTransform>
+        </Separator>
+        <Label Content="Days" HorizontalAlignment="Left" Margin="23,50,0,0" VerticalAlignment="Top"/>
+        <Label Content="Month" HorizontalAlignment="Left" Margin="23,98,0,0" VerticalAlignment="Top"/>
+        <Label Content="Year" HorizontalAlignment="Left" Margin="23,144,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="daysTextBox" HorizontalAlignment="Left" Height="23" Margin="116,54,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="monthsTextBox" HorizontalAlignment="Left" Height="23" Margin="116,98,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="yearsTextBox" HorizontalAlignment="Left" Height="23" Margin="116,144,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button Name="convertBackButton" Content="ConvertBack" HorizontalAlignment="Left" Margin="418,270,0,0" VerticalAlignment="Top" Width="75" Click="ConvertBackButton_Click"/>
+        <DatePicker Name="mainDatePicker" HorizontalAlignment="Left" Margin="356,104,0,0" VerticalAlignment="Top" SelectedDate="2017-11-01"/>
+    </Grid>
+</Window>
