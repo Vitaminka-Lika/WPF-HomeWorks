@@ -1,0 +1,15 @@
+c:\users\alika\source\repos\Resource\Resource\bin\Debug\Resource.exe.config
+c:\users\alika\source\repos\Resource\Resource\bin\Debug\Resource.exe
+c:\users\alika\source\repos\Resource\Resource\bin\Debug\Resource.pdb
+c:\users\alika\source\repos\Resource\Resource\obj\Debug\Resource.csprojResolveAssemblyReference.cache
+c:\users\alika\source\repos\Resource\Resource\obj\Debug\MainWindow.g.cs
+c:\users\alika\source\repos\Resource\Resource\obj\Debug\App.g.cs
+c:\users\alika\source\repos\Resource\Resource\obj\Debug\Resource_MarkupCompile.cache
+c:\users\alika\source\repos\Resource\Resource\obj\Debug\Resource_MarkupCompile.lref
+c:\users\alika\source\repos\Resource\Resource\obj\Debug\MainWindow.baml
+c:\users\alika\source\repos\Resource\Resource\obj\Debug\Resource.g.resources
+c:\users\alika\source\repos\Resource\Resource\obj\Debug\Resource.Properties.Resources.resources
+c:\users\alika\source\repos\Resource\Resource\obj\Debug\Resource.csproj.GenerateResource.Cache
+c:\users\alika\source\repos\Resource\Resource\obj\Debug\Resource.csproj.CoreCompileInputs.cache
+c:\users\alika\source\repos\Resource\Resource\obj\Debug\Resource.exe
+c:\users\alika\source\repos\Resource\Resource\obj\Debug\Resource.pdb
