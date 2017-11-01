@@ -1,0 +1,15 @@
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\ButtonStyles\ButtonStyles\bin\Debug\ButtonStyles.exe.config
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\ButtonStyles\ButtonStyles\bin\Debug\ButtonStyles.exe
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\ButtonStyles\ButtonStyles\bin\Debug\ButtonStyles.pdb
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\ButtonStyles\ButtonStyles\obj\Debug\ButtonStyles.csprojResolveAssemblyReference.cache
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\ButtonStyles\ButtonStyles\obj\Debug\MainWindow.g.cs
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\ButtonStyles\ButtonStyles\obj\Debug\App.g.cs
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\ButtonStyles\ButtonStyles\obj\Debug\ButtonStyles_MarkupCompile.cache
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\ButtonStyles\ButtonStyles\obj\Debug\ButtonStyles_MarkupCompile.lref
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\ButtonStyles\ButtonStyles\obj\Debug\App.baml
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\ButtonStyles\ButtonStyles\obj\Debug\MainWindow.baml
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\ButtonStyles\ButtonStyles\obj\Debug\ButtonStyles.g.resources
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\ButtonStyles\ButtonStyles\obj\Debug\ButtonStyles.Properties.Resources.resources
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\ButtonStyles\ButtonStyles\obj\Debug\ButtonStyles.csproj.GenerateResource.Cache
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\ButtonStyles\ButtonStyles\obj\Debug\ButtonStyles.exe
+c:\users\сарбасоваа\documents\visual studio 2017\Projects\ButtonStyles\ButtonStyles\obj\Debug\ButtonStyles.pdb
